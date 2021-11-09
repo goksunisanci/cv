@@ -1,0 +1,176 @@
+body {
+    background-color: #EAF6F6;
+    margin: 0 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.profile {
+    padding-bottom: 20vh;
+    padding-top: 20vh;
+}
+
+.education {
+    padding-top: 37vh;
+    padding-bottom: 37vh;
+}
+
+.work-experience {
+    padding-top: 32vh;
+    padding-bottom: 32vh;
+}
+
+.skills {
+    padding-top: 36vh;
+    padding-bottom: 36vh;
+}
+
+.certificates {
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #F76B8A;
+    border-width: 30px;
+    width: 20%;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    margin: 0 auto 0 auto;
+    color: #F76B8A;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.bottom-container > h2, .contact-me > a {
+    color: white;
+}
+
+.bottom-container {
+    background-color: #11999E;
+    margin: 0;
+}
+
+.top-container {
+    position: relative;
+    height: 100vh;
+}
+
+.entrance {
+    position: absolute;
+    top: 25%;
+    right: 35%;
+}
+
+.entrance > h1 {
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+.entrance > h2 {
+    color: #11999E;
+    font-size: 1.5rem;
+    font-weight: normal;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.circles {
+    position: absolute;
+    bottom: 0;
+    left: 33%;
+}
+
+table {
+    margin: 0 auto 0 auto;
+}
+
+.profile-img {
+    width: 180px;
+    height: 180px;
+    margin-bottom: 75px;
+}
+
+.skill-img {
+    width: 50px;
+    height: 50px;
+}
+
+.skill {
+    display: inline-block;
+    width: 100px;
+}
+
+.skill-name {
+    display: block;
+}
+
+th, td {
+    text-align: center;
+}
+
+.work-date {
+    margin-right: 50px;
+}
+
+.work-experience > p:nth-of-type(3) > span:nth-of-type(2) {
+    padding-left: 74px;
+    padding-right: 74px;
+}
+
+.work-experience > p:nth-of-type(4) > span:nth-of-type(2) {
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.contact-img {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.contact {
+    display: inline-block;
+    margin: 10px auto 10px auto;
+}
+
+.copyright {
+    display: block;
+    font-size: 12px;
+    margin: 10px auto 0 auto;
+}
+
+.socil-media {
+    display: block;
+}
+
+.title {
+    margin-bottom: 40px
+}
